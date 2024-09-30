@@ -1,0 +1,10 @@
+[
+  {
+    "id": "f97eb3bc-cc34-4d9d-a267-f71238b749db",
+    "guestName": "John Doe",
+    "roomNumber": 101,
+    "requestDetails": "Extra pillows and towels",
+    "priority": 1,
+    "status": "completed"
+  }
+]
